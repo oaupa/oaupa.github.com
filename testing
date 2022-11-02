@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal Real Estate</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div>
+        <h1>Royal Real Estate</h1>
+        <img id="img" src="./resources/css/images/house.jpg" alt=""/>
+        <p>Our goal at royal real estate is build you a clamourous home,
+         we do this by designing a suitable plan that fit int to your budget</p>
+    </div>
+    <div>
+    <h2>INTERIOR DESIGN</h2>
+    <img id="interior-design" src="./resources/css/images/champwilde_lead-1977x1318.jpeg" alt=""/>
+    <p>We specialise on customised interior designs, 
+        making your dream home special, relaxable and of fun</p>
+    </div>
+    <div>
+        <h3>MEET OUR TEAM OF EXPARTS</h3>
+        <img src="resources/css/images/images 02.jpg" alt="Jackson"/>
+        <h3>JACKSON-Lead designer</h3>
+        <p>Jackson is our Lead designer with more 10 years of home design experience. Here are some of his work <a></a></p>
+        <img src="resources/css/images/images 08.jpg" alt="Lea"/>
+        <h3>LEA-Lead marketer</h3>
+        <p>Lea is our lead marketer, she have so many years of experience in the industry, she has help many of our client.</p>
+        <img src="resources/css/images/images 60.jpg" alt="Davis"/>
+        <h3>DAVIS-Finance operator</h3>
+        <p>Davis is our lead finance operator with over 10 year of experience</p>
+        <p></p>
+    </div>
+    <div>
+        <button>REACT OUT TO US</button>
+    </div>
+    <div>
+        <form action="">
+            <input type="text"/>
+            <input type="submit" value="submit"/>
+
+        </form>
+    </div>
+    <div>
+        <footer>
+
+        </footer>
+    </div>
+</body>
+</html>
